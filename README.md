@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **[abhirama99@live.com](abhirama99@live.com)** or **[LinkedIn](https://www.linkedin.com/in/abhirama-susruth-puppala-09b1b5195/)**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
 </p>
