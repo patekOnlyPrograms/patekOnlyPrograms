@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patekonlyprograms" alt="patekonlyprograms" /></a> </p>
 
-- 🔭 I’m currently working on [Web-App-DevOps-Project](https://github.com/patekOnlyPrograms/Web-App-DevOps-Project)
+[//]: # ( - 🔭 I’m currently working on [Web-App-DevOps-Project]&#40;https://github.com/patekOnlyPrograms/Web-App-DevOps-Project&#41;)
 
 - 🌱 I’m currently learning **DevOps, Python, Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/patekOnlyPrograms?tab=repositories](https://github.com/patekOnlyPrograms?tab=repositories)
 
-- 📫 How to reach me **[abhirama99@live.com](abhirama99@live.com)** or **[LinkedIn](linkedin.com/in/abhirama-susruth-puppala-09b1b5195)**
+- 📫 How to reach me **[abhirama99@live.com](abhirama99@live.com)** or **[LinkedIn](https://www.linkedin.com/in/abhirama-susruth-puppala-09b1b5195/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
